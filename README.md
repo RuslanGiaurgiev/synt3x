@@ -10,7 +10,7 @@
 
 **Backend & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org)
+[![Powered by Go](https://img.shields.io/badge/Powered%20by-Go-00ADD8?logo=go&logoColor=white)](https://golang.org)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white)
